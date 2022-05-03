@@ -16,9 +16,7 @@ export default function App() {
   return (
     <div className={`app ${theme}`}>
       <div>
-        <a href="#app" id="btnTheme" className={`float-start theme-btn-${theme}`} onClick={() => setTheme(theme === "light" ? "dark" : "light")}>
-          <FontAwesomeIcon icon={faMoon} />
-        </a>
+        <FontAwesomeIcon icon={faMoon} id="btnTheme" className={`float-start theme-btn-${theme}`} onClick={() => setTheme(theme === "light" ? "dark" : "light")} style={{cursor:"pointer"}} />
         <nav>
           <ul>
             <li><NavLink activeclassname="activeElementNew" to="/">Home Page</NavLink></li>
