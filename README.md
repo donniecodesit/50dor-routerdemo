@@ -1,5 +1,4 @@
 ## About This App 
-### [Live Application](https://dl-react-router-demo.herokuapp.com/)
 This is a React Router Demo Application built with React during Day 15 of a 50 Days of React Udemy Course.
 This application serves as a base, and practice for using React v6 Router to manage a single-page application and view different components with State Management.
 
