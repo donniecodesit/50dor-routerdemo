@@ -1,6 +1,6 @@
-## About This App 
-This is a React Router Demo Application built with React during Day 15 of a 50 Days of React Udemy Course.
-This application serves as a base, and practice for using React v6 Router to manage a single-page application and view different components with State Management.
+## About This App
+React project made during Day 15 of "50 Days of React" by Sufa Digital Media on Udemy.
+This application is a practie for using React v6 Router to manage a single-page application and view different components with State Management.
 
 ## How To Install & Run
 - Download/Clone this repository and run `npm install` to install dependencies.
